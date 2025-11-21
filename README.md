@@ -1,6 +1,6 @@
 # Saveliev Correction Analysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17643994.svg)](https://zenodo.org/records/17643994)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17676490.svg)](https://zenodo.org/records/17676490)
 
 Code and statistical analysis for the paper **"Evidence of Systematic Non-Virial Broadening Bias in Black Hole Mass Estimates at High Redshift"**.
 
