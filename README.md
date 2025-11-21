@@ -50,4 +50,3 @@ This script is designed to be applied to real observational datasets. To calcula
 **Saveliev, A. (2025). Evidence of Systematic Non-Virial Broadening Bias in Black Hole Mass Estimates at High Redshift: Revisiting the Nature of "Little Red Dots"**
 
 Full text and data available on Zenodo: [https://zenodo.org/records/17643994](https://zenodo.org/records/17643994)
-```
