@@ -1,10 +1,10 @@
-# Savelyev Correction Analysis
+# Saveliev Correction Analysis
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17643994.svg)](https://zenodo.org/records/17643994)
 
 Code and statistical analysis for the paper **"Evidence of Systematic Non-Virial Broadening Bias in Black Hole Mass Estimates at High Redshift"**.
 
-This tool demonstrates the **Savelyev Correction** — a method to disentangle wind-driven spectral line broadening from gravitational kinematics in "Little Red Dots" (LRDs).
+This tool demonstrates the **Saveliev Correction** — a method to disentangle wind-driven spectral line broadening from gravitational kinematics in "Little Red Dots" (LRDs).
 
 ## 🚀 Quick Start (Simulation)
 
