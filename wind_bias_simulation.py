@@ -11,7 +11,7 @@ Description:
     2. ANALYSIS: Accepts a user-provided CSV file to calculate the correction for real data.
 
 Author: Alexander Saveliev
-Paper: "The Saveliev Correction: Disentangling Winds from Gravity in LRDs"
+Paper: "Evidence of Systematic Non-Virial Broadening Bias in Black Hole Mass Estimates at High Redshift: Revisiting the Nature of "Little Red Dots""
 """
 
 import numpy as np
@@ -182,4 +182,5 @@ if __name__ == "__main__":
             print(f"Error loading data: {e}")
             sys.exit(1)
             
+
     run_saveliev_diagnostics(df_analysis)
